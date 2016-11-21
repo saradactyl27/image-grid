@@ -65,29 +65,29 @@ img:last-child {
   img {
     display: inline-block;
     float: left;
-    width: 33.33%;
+    width: 33.3333%;
   }
 
   img:nth-child(2) {
     display: inline-block;
-    width: 33.33%;
+    width: 33.3333%;
   }
 }
 
 @media only screen and (min-width: 60em) {
   img:first-child {
     display: block;
-    width: 66.66%;
+    width: 66.6666%;
     float: left;
   }
 
   img:nth-child(2) {
     display: block;
-    width: 33.33%;
+    width: 33.3333%;
   }
 
   img:last-child {
     display: block;
-    width: 33.33%;
+    width: 33.3333%;
   }
 }
